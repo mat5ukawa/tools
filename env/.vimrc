@@ -29,6 +29,7 @@ NeoBundle 'tpope/vim-endwise'
 filetype plugin indent on
 NeoBundleCheck
 
+call neobundle#end()
 
 "*******************************************************************
 
