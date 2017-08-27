@@ -1,0 +1,18 @@
+[user]
+  name = ymatsukawa
+  email = ymatsukawa@example.com
+[core]
+  editor = vim
+[color]
+	ui = true
+[diff]
+  tool = vimdiff
+[alias]
+  puo = push -u origin
+  poforce = push -f origin
+  df = diff
+  st = status
+  br = branch
+  m = merge
+  co = checkout
+  cob = checkout -b
