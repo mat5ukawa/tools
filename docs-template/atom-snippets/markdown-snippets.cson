@@ -1,0 +1,137 @@
+# ====================
+## Technical Question
+'.source.gfm':
+  'question':
+    'prefix': 'snip.question.tech'
+    'body': """
+# Background
+
+TBD - remove if it's unnecessary
+
+# Summary
+
+TBD - conclusion of detail
+
+# Detail
+
+TBD
+
+# Reference
+
+TBD
+"""
+# ====================
+## Consult solutions
+  'report_analyse':
+    'prefix': 'snip.report.analyse'
+    'body': """
+# Conclusion
+
+TBD - write reason
+
+# Permanent support / Temporary solution
+
+TBD
+
+# Fix impact / Cost
+
+TBD
+
+# Attachment
+
+TBD
+"""
+# ====================
+## Consult solution to problem
+  'consult_solution':
+    'prefix': 'snip.consult.solution'
+    'body': """
+# Theme of this issue
+
+TBD
+
+# Problem
+
+TBD
+
+# Solutions
+
+TBD
+
+"""
+# ====================
+## Result of Consult
+  'result_consult':
+    'prefix': 'snip.consult.result'
+    'body': """
+# Result
+
+## summary
+
+TBD
+
+## details
+
+TBD
+
+## Priority
+
+* [ ] High
+* [ ] Middle
+* [ ] Low
+* [ ] Pend
+
+## Delivery
+
+TBD
+"""
+# ====================
+## Report Problem
+  'report_problem':
+    'prefix': 'snip.report.problem'
+    'body': """
+# What's happned
+
+TBD
+
+# Problem
+
+TBD
+
+# Solution and Impact
+
+## Solution
+
+TBD
+
+## Impact
+
+TBD
+
+# Cost
+
+TBD
+"""
+# ====================
+## ASIS-TOBE
+  'order_asistobe':
+    'prefix': 'snip.order.asistobe'
+    'body': """
+# Theme
+
+TBD
+
+# AsIs
+
+TBD
+
+# ToBe
+
+TBD
+
+# Task
+
+TBD
+"""
+# ====================
+# ====================
